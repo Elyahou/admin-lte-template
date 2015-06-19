@@ -1,4 +1,8 @@
-<a href="#" class="logo">{{{ config('admin.title') }}}</a>
+<a href="#" class="logo">
+	<span  class="logo-lg">{{{ config('admin.title') }}}</span>
+	<span class="logo-mini"><b>{{{ config('admin.title-mini') }}}</b></span>
+</a>
+
 <nav class="navbar navbar-static-top" role="navigation">
 	<a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
 		<span class="sr-only">Toggle navigation</span>

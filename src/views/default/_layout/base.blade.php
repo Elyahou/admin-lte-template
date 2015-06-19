@@ -21,7 +21,7 @@
 			<script src="{{ $script }}"></script>
 		@endforeach
 	</head>
-	@yield('body', '<body class="skin-blue">')
+	@yield('body', '<body class="skin-blue  sidebar-mini sidebar-collapse">')
 		@yield('content')
 	</body>
 </html>
