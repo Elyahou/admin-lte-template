@@ -6,3 +6,19 @@
 	margin-top: 10px;
 	padding: 10px;
 }
+
+.logo {
+	background-color: #222D32
+}
+
+.logo img {
+	width: 60px;
+}
+
+.logo-bottom {
+	text-align: center;
+}
+
+.logo-bottom img {
+	width: 100px;
+}
